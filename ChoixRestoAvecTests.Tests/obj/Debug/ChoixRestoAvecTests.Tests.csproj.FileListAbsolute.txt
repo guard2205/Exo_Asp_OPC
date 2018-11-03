@@ -1,0 +1,233 @@
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.csprojResolveAssemblyReference.cache
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe.config
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.rsp
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.exe
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.rsp
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.AppContext.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe.config
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.rsp
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll.config
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.pdb
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.pdb
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll.config
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.dll
+c:\users\annelise\documents\visual studio 2017\Projects\ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_3_ChoixRestoAvecTests\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.pdb
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll.config
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.dll
+C:\Users\AnneLise\Documents\Visual Studio 2017\Projects\Module3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.pdb
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.exe.config
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csc.rsp
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.exe
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\csi.rsp
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\vbc.rsp
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll.config
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.Tests.pdb
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.pdb
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\ChoixRestoAvecTests.dll.config
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Mvc.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.Razor.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.csprojResolveAssemblyReference.cache
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.dll
+D:\VS-AL-ASP\LACS-ASP-MVC\Projects\M3_4_ChoixRestoAvecTests - CompleterLeModele\ChoixRestoAvecTests.Tests\obj\Debug\ChoixRestoAvecTests.Tests.pdb
